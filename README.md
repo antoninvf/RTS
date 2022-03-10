@@ -1,5 +1,5 @@
 # RTS
 my epic rts
 
-Left Click = select npc
-Right Click = move to location
+<p>Left Click = select npc</p>
+<p>Right Click = move to location</p>
